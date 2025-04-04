@@ -1,0 +1,11 @@
+{
+  "RootLayout": {
+    "title": "Sprout",
+    "description": "Développez vos connaissances avec Sprout"
+  },
+  "header": {
+    "login": "Connexion",
+    "register": "S'inscrire",
+    "profile": "Profil"
+  }
+}

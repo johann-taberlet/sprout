@@ -1,0 +1,55 @@
+{
+  "login": {
+    "title": "Sign in",
+    "description": "Enter your email to sign in to your account",
+    "submit": "Sign in",
+    "loading": "Signing in...",
+    "link": "Sign in",
+    "haveAccount": "Already have an account?",
+    "forgotPassword": "Forgot password?"
+  },
+  "signUp": {
+    "title": "Sign up",
+    "description": "Create your account",
+    "submit": "Sign up",
+    "loading": "Creating account...",
+    "link": "Sign up",
+    "noAccount": "Don't have an account?",
+    "success": {
+      "title": "Thanks for signing up!",
+      "description": "Check your email to confirm",
+      "message": "Your account has been created successfully. Please check your email to confirm your account before signing in."
+    }
+  },
+  "forgotPassword": {
+    "title": "Reset your password",
+    "description": "Enter your email and we'll send you a password reset link",
+    "submit": "Send reset email",
+    "loading": "Sending...",
+    "success": {
+      "title": "Check your email",
+      "description": "Reset instructions sent",
+      "message": "If you signed up with your email and password, you'll receive a password reset email."
+    }
+  },
+  "updatePassword": {
+    "title": "Reset your password",
+    "description": "Please enter your new password below.",
+    "submit": "Save new password",
+    "loading": "Saving..."
+  },
+  "fields": {
+    "email": "Email",
+    "password": "Password",
+    "confirmPassword": "Confirm password",
+    "newPassword": "New password"
+  },
+  "error": {
+    "title": "Sorry, an error occurred.",
+    "generic": "An error occurred",
+    "invalidCredentials": "Invalid email or password",
+    "passwordsDoNotMatch": "Passwords do not match",
+    "code": "Error code: {error}",
+    "unspecified": "An unspecified error occurred."
+  }
+}

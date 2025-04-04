@@ -1,0 +1,55 @@
+{
+  "login": {
+    "title": "Connexion",
+    "description": "Entrez votre email pour vous connecter à votre compte",
+    "submit": "Se connecter",
+    "loading": "Connexion en cours...",
+    "link": "Se connecter",
+    "haveAccount": "Vous avez déjà un compte ?",
+    "forgotPassword": "Mot de passe oublié ?"
+  },
+  "signUp": {
+    "title": "Inscription",
+    "description": "Créez votre compte",
+    "submit": "S'inscrire",
+    "loading": "Création du compte en cours...",
+    "link": "S'inscrire",
+    "noAccount": "Vous n'avez pas de compte ?",
+    "success": {
+      "title": "Merci de votre inscription !",
+      "description": "Vérifiez vos emails pour confirmer",
+      "message": "Votre inscription a été effectuée avec succès. Veuillez vérifier vos emails pour confirmer votre compte avant de vous connecter."
+    }
+  },
+  "forgotPassword": {
+    "title": "Réinitialiser votre mot de passe",
+    "description": "Entrez votre email et nous vous enverrons un lien pour réinitialiser votre mot de passe",
+    "submit": "Envoyer l'email de réinitialisation",
+    "loading": "Envoi en cours...",
+    "success": {
+      "title": "Vérifiez vos emails",
+      "description": "Instructions de réinitialisation envoyées",
+      "message": "Si vous vous êtes inscrit avec votre email et mot de passe, vous recevrez un email de réinitialisation."
+    }
+  },
+  "updatePassword": {
+    "title": "Réinitialiser votre mot de passe",
+    "description": "Veuillez entrer votre nouveau mot de passe ci-dessous.",
+    "submit": "Enregistrer le nouveau mot de passe",
+    "loading": "Enregistrement en cours..."
+  },
+  "fields": {
+    "email": "Email",
+    "password": "Mot de passe",
+    "confirmPassword": "Confirmer le mot de passe",
+    "newPassword": "Nouveau mot de passe"
+  },
+  "error": {
+    "title": "Désolé, une erreur est survenue.",
+    "generic": "Une erreur est survenue",
+    "invalidCredentials": "Email ou mot de passe incorrect",
+    "passwordsDoNotMatch": "Les mots de passe ne correspondent pas",
+    "code": "Code d'erreur : {error}",
+    "unspecified": "Une erreur non spécifiée est survenue."
+  }
+}
